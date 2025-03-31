@@ -1,3 +1,5 @@
-# References
 
-* octocat 1 😈
+Lista de referencias:
+- Libro A
+- Libro B
+
